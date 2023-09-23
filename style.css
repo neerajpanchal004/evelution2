@@ -1,0 +1,98 @@
+.uppbox{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: bisque;
+    /* align-items: center; */
+
+}
+#main{
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.box1{
+    width: 35%;
+    
+    background-color: whitesmoke;
+    margin: 5%;
+    padding-left: 2%;
+    border-radius: 5%;
+    
+}
+#p1{
+    font-weight: bold;
+}
+.box2{
+    width: 35%;
+    
+    background-color: whitesmoke;
+    margin: 5%;
+    padding-left: 2%;
+    border-radius: 5%;
+    
+}
+.box3{
+    width: 35%;
+    
+    background-color: whitesmoke;
+    margin: 5%;
+    padding-left: 2%;
+    border-radius: 5%;
+    
+}
+.hed{
+    padding-bottom: 20%;
+    padding-top: 15%;
+}
+#but{
+    text-align: center;
+    color: red;
+    border-radius: 3px;
+    border: 1px solid red; 
+    background-color: bisque; 
+    
+}
+#button{
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+    padding-bottom: 3%;
+}
+#invest{
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    padding-top: 5%;
+    padding-bottom: 1%;
+}
+.low{
+    display: flex;
+    justify-content: space-evenly;
+}
+.lowbox1{
+    width: 22%;
+    height: 200px;
+    background-color: brown;
+    border: 2px solid grey;
+    border-radius: 5px ;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/image_141_011540f01d.png");
+    background-size: contain;
+}
+.lowbox2{
+    width: 22%;
+    height: 200px;
+    background-color: brown;
+    border: 2px solid grey;
+    border-radius: 5px ;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/image_72_01a7c01805.png");
+    background-size: cover;
+}
+.lowbox3{
+    width: 22%;
+    height: 200px;
+    background-color: brown;
+    border: 2px solid grey;
+    border-radius: 5px ;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/image_144_aa9b1fda69.png");
+    background-size: contain;
+}
